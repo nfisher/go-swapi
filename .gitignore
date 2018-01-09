@@ -1,8 +1,13 @@
+# vim
+*.sw?
+tags
+
 # Binaries for programs and plugins
 *.exe
 *.dll
 *.so
 *.dylib
+*.gob
 
 # Test binary, build with `go test -c`
 *.test
