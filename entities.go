@@ -17,14 +17,18 @@ func url2id(url string) string {
 // Entity Collections
 
 type Collectable interface {
+	Append(coll Collectable)
 	Len() int
 }
 
 type People []Person
 
-func (p *People) Append(result interface{}) {
-	res := result.(*PersonResult)
-	*p = append(*p, res.Results...)
+func (p *People) Append(coll Collectable) {
+	res, ok := coll.(*People)
+	if !ok {
+		return
+	}
+	*p = append(*p, *res...)
 }
 
 func (p *People) Len() int {
@@ -33,9 +37,12 @@ func (p *People) Len() int {
 
 type Planets []Planet
 
-func (p *Planets) Append(result interface{}) {
-	res := result.(*PlanetResult)
-	*p = append(*p, res.Results...)
+func (p *Planets) Append(coll Collectable) {
+	res, ok := coll.(*Planets)
+	if !ok {
+		return
+	}
+	*p = append(*p, *res...)
 }
 
 func (p *Planets) Len() int {
@@ -44,9 +51,12 @@ func (p *Planets) Len() int {
 
 type Films []Film
 
-func (f *Films) Append(result interface{}) {
-	res := result.(*FilmResult)
-	*f = append(*f, res.Results...)
+func (f *Films) Append(coll Collectable) {
+	res, ok := coll.(*Films)
+	if !ok {
+		return
+	}
+	*f = append(*f, *res...)
 }
 
 func (f *Films) Len() int {
@@ -55,9 +65,12 @@ func (f *Films) Len() int {
 
 type Species []Specie
 
-func (f *Species) Append(result interface{}) {
-	res := result.(*SpeciesResult)
-	*f = append(*f, res.Results...)
+func (f *Species) Append(coll Collectable) {
+	res, ok := coll.(*Species)
+	if !ok {
+		return
+	}
+	*f = append(*f, *res...)
 }
 
 func (f *Species) Len() int {
@@ -66,9 +79,12 @@ func (f *Species) Len() int {
 
 type Starships []Starship
 
-func (f *Starships) Append(result interface{}) {
-	res := result.(*StarshipResult)
-	*f = append(*f, res.Results...)
+func (f *Starships) Append(coll Collectable) {
+	res, ok := coll.(*Starships)
+	if !ok {
+		return
+	}
+	*f = append(*f, *res...)
 }
 
 func (f *Starships) Len() int {
@@ -77,9 +93,12 @@ func (f *Starships) Len() int {
 
 type Vehicles []Vehicle
 
-func (f *Vehicles) Append(result interface{}) {
-	res := result.(*VehicleResult)
-	*f = append(*f, res.Results...)
+func (f *Vehicles) Append(coll Collectable) {
+	res, ok := coll.(*Vehicles)
+	if !ok {
+		return
+	}
+	*f = append(*f, *res...)
 }
 
 func (f *Vehicles) Len() int {

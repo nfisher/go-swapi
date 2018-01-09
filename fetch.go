@@ -105,7 +105,7 @@ func (r *PersonResult) Reset() {
 
 func (r *PersonResult) AppendTo(coll Collectable) {
 	c := coll.(*People)
-	*c = append(*c, r.Results...)
+	c.Append(&r.Results)
 }
 
 type PlanetResult struct {
@@ -120,7 +120,7 @@ func (r *PlanetResult) Reset() {
 
 func (r *PlanetResult) AppendTo(coll Collectable) {
 	c := coll.(*Planets)
-	*c = append(*c, r.Results...)
+	c.Append(&r.Results)
 }
 
 type FilmResult struct {
@@ -135,7 +135,7 @@ func (r *FilmResult) Reset() {
 
 func (r *FilmResult) AppendTo(coll Collectable) {
 	c := coll.(*Films)
-	*c = append(*c, r.Results...)
+	c.Append(&r.Results)
 }
 
 type SpeciesResult struct {
@@ -149,8 +149,11 @@ func (r *SpeciesResult) Reset() {
 }
 
 func (r *SpeciesResult) AppendTo(coll Collectable) {
-	c := coll.(*Species)
-	*c = append(*c, r.Results...)
+	c, ok := coll.(*Species)
+	if !ok {
+		return
+	}
+	c.Append(&r.Results)
 }
 
 type StarshipResult struct {
@@ -165,7 +168,7 @@ func (r *StarshipResult) Reset() {
 
 func (r *StarshipResult) AppendTo(coll Collectable) {
 	c := coll.(*Starships)
-	*c = append(*c, r.Results...)
+	c.Append(&r.Results)
 }
 
 type VehicleResult struct {
@@ -180,7 +183,7 @@ func (r *VehicleResult) Reset() {
 
 func (r *VehicleResult) AppendTo(coll Collectable) {
 	c := coll.(*Vehicles)
-	*c = append(*c, r.Results...)
+	c.Append(&r.Results)
 }
 
 func Fetch(c *http.Client, next, filename string, coll Collectable, result Resultable) error {
