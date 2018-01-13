@@ -2,6 +2,7 @@ package swapi
 
 import (
 	"encoding/json"
+	"fmt"
 	"strings"
 )
 
@@ -161,6 +162,10 @@ type Person struct {
 	RestFields
 }
 
+func (p Person) String() string {
+	return fmt.Sprintf("%#v", p)
+}
+
 type Planet struct {
 	Name           string
 	Diameter       string
@@ -174,6 +179,10 @@ type Planet struct {
 	Residents      Ids
 	Films          Ids
 	RestFields
+}
+
+func (p Planet) String() string {
+	return fmt.Sprintf("%#v", p)
 }
 
 type Film struct {
@@ -191,6 +200,10 @@ type Film struct {
 	RestFields
 }
 
+func (f Film) String() string {
+	return fmt.Sprintf("%#v", f)
+}
+
 type Specie struct {
 	Name            string
 	Classification  string
@@ -205,6 +218,10 @@ type Specie struct {
 	People          Ids
 	Films           Ids
 	RestFields
+}
+
+func (s Specie) String() string {
+	return fmt.Sprintf("%#v", s)
 }
 
 type Transport struct {
@@ -232,8 +249,16 @@ type Starship struct {
 	StarshipClass    string `json:"starship_class"`
 }
 
+func (s Starship) String() string {
+	return fmt.Sprintf("%#v", s)
+}
+
 type Vehicle struct {
 	Transport
 
 	VehicleClass string `json:"vehicle_class"`
+}
+
+func (v Vehicle) String() string {
+	return fmt.Sprintf("%#v", v)
 }
