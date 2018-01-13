@@ -545,7 +545,7 @@
       "eye_color": "blue",
       "birth_year": "19BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/1/",
+      "Homeworld": "1",
       "Films": [
         "2",
         "6",
@@ -576,7 +576,7 @@
       "eye_color": "blue-gray",
       "birth_year": "57BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/20/",
+      "Homeworld": "20",
       "Films": [
         "2",
         "5",
@@ -610,7 +610,7 @@
       "eye_color": "blue",
       "birth_year": "41.9BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/1/",
+      "Homeworld": "1",
       "Films": [
         "5",
         "4",
@@ -640,7 +640,7 @@
       "eye_color": "blue",
       "birth_year": "64BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/21/",
+      "Homeworld": "21",
       "Films": [
         "6",
         "1"
@@ -662,7 +662,7 @@
       "eye_color": "blue",
       "birth_year": "200BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/14/",
+      "Homeworld": "14",
       "Films": [
         "2",
         "6",
@@ -692,7 +692,7 @@
       "eye_color": "brown",
       "birth_year": "29BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/22/",
+      "Homeworld": "22",
       "Films": [
         "2",
         "3",
@@ -719,7 +719,7 @@
       "eye_color": "black",
       "birth_year": "44BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/23/",
+      "Homeworld": "23",
       "Films": [
         "1"
       ],
@@ -740,7 +740,7 @@
       "eye_color": "orange",
       "birth_year": "600BBY",
       "Gender": "hermaphrodite",
-      "Homeworld": "https://swapi.co/api/planets/24/",
+      "Homeworld": "24",
       "Films": [
         "4",
         "3",
@@ -763,7 +763,7 @@
       "eye_color": "hazel",
       "birth_year": "21BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/22/",
+      "Homeworld": "22",
       "Films": [
         "2",
         "3",
@@ -790,7 +790,7 @@
       "eye_color": "blue",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/26/",
+      "Homeworld": "26",
       "Films": [
         "1"
       ],
@@ -813,7 +813,7 @@
       "eye_color": "yellow",
       "birth_year": "112BBY",
       "Gender": "n/a",
-      "Homeworld": "https://swapi.co/api/planets/1/",
+      "Homeworld": "1",
       "Films": [
         "2",
         "5",
@@ -839,7 +839,7 @@
       "eye_color": "brown",
       "birth_year": "896BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/28/",
+      "Homeworld": "28",
       "Films": [
         "2",
         "5",
@@ -864,7 +864,7 @@
       "eye_color": "yellow",
       "birth_year": "82BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/8/",
+      "Homeworld": "8",
       "Films": [
         "2",
         "5",
@@ -889,7 +889,7 @@
       "eye_color": "brown",
       "birth_year": "31.5BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/10/",
+      "Homeworld": "10",
       "Films": [
         "2",
         "5",
@@ -914,7 +914,7 @@
       "eye_color": "red",
       "birth_year": "15BBY",
       "Gender": "none",
-      "Homeworld": "https://swapi.co/api/planets/28/",
+      "Homeworld": "28",
       "Films": [
         "2"
       ],
@@ -935,7 +935,7 @@
       "eye_color": "red",
       "birth_year": "53BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/29/",
+      "Homeworld": "29",
       "Films": [
         "2"
       ],
@@ -956,7 +956,7 @@
       "eye_color": "brown",
       "birth_year": "31BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/30/",
+      "Homeworld": "30",
       "Films": [
         "2",
         "3"
@@ -980,7 +980,7 @@
       "eye_color": "blue",
       "birth_year": "37BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/6/",
+      "Homeworld": "6",
       "Films": [
         "2"
       ],
@@ -1001,7 +1001,7 @@
       "eye_color": "orange",
       "birth_year": "41BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/31/",
+      "Homeworld": "31",
       "Films": [
         "3",
         "7"
@@ -1023,7 +1023,7 @@
       "eye_color": "blue",
       "birth_year": "48BBY",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/32/",
+      "Homeworld": "32",
       "Films": [
         "3"
       ],
@@ -1044,7 +1044,7 @@
       "eye_color": "brown",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/28/",
+      "Homeworld": "28",
       "Films": [
         "3"
       ],
@@ -1067,7 +1067,7 @@
       "eye_color": "red",
       "birth_year": "33BBY",
       "Gender": "n/a",
-      "Homeworld": "https://swapi.co/api/planets/8/",
+      "Homeworld": "8",
       "Films": [
         "2",
         "5",
@@ -1094,7 +1094,7 @@
       "eye_color": "brown",
       "birth_year": "8BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/7/",
+      "Homeworld": "7",
       "Films": [
         "3"
       ],
@@ -1115,7 +1115,7 @@
       "eye_color": "black",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/33/",
+      "Homeworld": "33",
       "Films": [
         "3"
       ],
@@ -1138,7 +1138,7 @@
       "eye_color": "blue",
       "birth_year": "92BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/28/",
+      "Homeworld": "28",
       "Films": [
         "4"
       ],
@@ -1161,7 +1161,7 @@
       "eye_color": "red",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/18/",
+      "Homeworld": "18",
       "Films": [
         "5",
         "4",
@@ -1184,7 +1184,7 @@
       "eye_color": "blue",
       "birth_year": "91BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/9/",
+      "Homeworld": "9",
       "Films": [
         "4"
       ],
@@ -1205,7 +1205,7 @@
       "eye_color": "brown",
       "birth_year": "46BBY",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/8/",
+      "Homeworld": "8",
       "Films": [
         "5",
         "4",
@@ -1232,7 +1232,7 @@
       "eye_color": "orange",
       "birth_year": "52BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/8/",
+      "Homeworld": "8",
       "Films": [
         "5",
         "4"
@@ -1254,7 +1254,7 @@
       "eye_color": "orange",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/8/",
+      "Homeworld": "8",
       "Films": [
         "4"
       ],
@@ -1275,7 +1275,7 @@
       "eye_color": "orange",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/8/",
+      "Homeworld": "8",
       "Films": [
         "4"
       ],
@@ -1296,7 +1296,7 @@
       "eye_color": "blue",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/8/",
+      "Homeworld": "8",
       "Films": [
         "4"
       ],
@@ -1317,7 +1317,7 @@
       "eye_color": "yellow",
       "birth_year": "41.9BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/1/",
+      "Homeworld": "1",
       "Films": [
         "2",
         "6",
@@ -1343,7 +1343,7 @@
       "eye_color": "yellow",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/34/",
+      "Homeworld": "34",
       "Films": [
         "5",
         "4"
@@ -1365,7 +1365,7 @@
       "eye_color": "orange",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/35/",
+      "Homeworld": "35",
       "Films": [
         "4"
       ],
@@ -1386,7 +1386,7 @@
       "eye_color": "brown",
       "birth_year": "62BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/8/",
+      "Homeworld": "8",
       "Films": [
         "4"
       ],
@@ -1405,7 +1405,7 @@
       "eye_color": "brown",
       "birth_year": "72BBY",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/1/",
+      "Homeworld": "1",
       "Films": [
         "5",
         "4"
@@ -1427,7 +1427,7 @@
       "eye_color": "yellow",
       "birth_year": "54BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/36/",
+      "Homeworld": "36",
       "Films": [
         "4"
       ],
@@ -1452,7 +1452,7 @@
       "eye_color": "pink",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/37/",
+      "Homeworld": "37",
       "Films": [
         "3"
       ],
@@ -1473,7 +1473,7 @@
       "eye_color": "hazel",
       "birth_year": "48BBY",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/37/",
+      "Homeworld": "37",
       "Films": [
         "5",
         "4",
@@ -1496,7 +1496,7 @@
       "eye_color": "unknown",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/38/",
+      "Homeworld": "38",
       "Films": [
         "4"
       ],
@@ -1517,7 +1517,7 @@
       "eye_color": "yellow",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/39/",
+      "Homeworld": "39",
       "Films": [
         "4"
       ],
@@ -1538,7 +1538,7 @@
       "eye_color": "black",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/40/",
+      "Homeworld": "40",
       "Films": [
         "4"
       ],
@@ -1559,7 +1559,7 @@
       "eye_color": "brown",
       "birth_year": "19BBY",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/2/",
+      "Homeworld": "2",
       "Films": [
         "2",
         "6",
@@ -1586,7 +1586,7 @@
       "eye_color": "orange",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/41/",
+      "Homeworld": "41",
       "Films": [
         "4"
       ],
@@ -1607,7 +1607,7 @@
       "eye_color": "brown",
       "birth_year": "72BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/42/",
+      "Homeworld": "42",
       "Films": [
         "5",
         "4",
@@ -1630,7 +1630,7 @@
       "eye_color": "yellow",
       "birth_year": "92BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/43/",
+      "Homeworld": "43",
       "Films": [
         "5",
         "4",
@@ -1653,7 +1653,7 @@
       "eye_color": "black",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/44/",
+      "Homeworld": "44",
       "Films": [
         "5",
         "4",
@@ -1676,7 +1676,7 @@
       "eye_color": "brown",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/45/",
+      "Homeworld": "45",
       "Films": [
         "4",
         "6"
@@ -1698,7 +1698,7 @@
       "eye_color": "blue",
       "birth_year": "unknown",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/9/",
+      "Homeworld": "9",
       "Films": [
         "4",
         "6"
@@ -1720,7 +1720,7 @@
       "eye_color": "orange",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/47/",
+      "Homeworld": "47",
       "Films": [
         "4",
         "6"
@@ -1742,7 +1742,7 @@
       "eye_color": "yellow",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/48/",
+      "Homeworld": "48",
       "Films": [
         "4"
       ],
@@ -1763,7 +1763,7 @@
       "eye_color": "black",
       "birth_year": "22BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/49/",
+      "Homeworld": "49",
       "Films": [
         "5",
         "4",
@@ -1788,7 +1788,7 @@
       "eye_color": "blue",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/50/",
+      "Homeworld": "50",
       "Films": [
         "5",
         "4"
@@ -1810,7 +1810,7 @@
       "eye_color": "blue",
       "birth_year": "52BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/1/",
+      "Homeworld": "1",
       "Films": [
         "5",
         "6",
@@ -1833,7 +1833,7 @@
       "eye_color": "brown",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/8/",
+      "Homeworld": "8",
       "Films": [
         "5"
       ],
@@ -1856,7 +1856,7 @@
       "eye_color": "brown",
       "birth_year": "unknown",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/8/",
+      "Homeworld": "8",
       "Films": [
         "5"
       ],
@@ -1877,7 +1877,7 @@
       "eye_color": "blue",
       "birth_year": "82BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/1/",
+      "Homeworld": "1",
       "Films": [
         "5"
       ],
@@ -1898,7 +1898,7 @@
       "eye_color": "yellow",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/11/",
+      "Homeworld": "11",
       "Films": [
         "5",
         "6"
@@ -1920,7 +1920,7 @@
       "eye_color": "blue",
       "birth_year": "58BBY",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/51/",
+      "Homeworld": "51",
       "Films": [
         "5",
         "6"
@@ -1942,7 +1942,7 @@
       "eye_color": "blue",
       "birth_year": "40BBY",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/51/",
+      "Homeworld": "51",
       "Films": [
         "5"
       ],
@@ -1963,7 +1963,7 @@
       "eye_color": "brown",
       "birth_year": "unknown",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/8/",
+      "Homeworld": "8",
       "Films": [
         "5"
       ],
@@ -1984,7 +1984,7 @@
       "eye_color": "brown",
       "birth_year": "102BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/52/",
+      "Homeworld": "52",
       "Films": [
         "5",
         "6"
@@ -2008,7 +2008,7 @@
       "eye_color": "brown",
       "birth_year": "67BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/2/",
+      "Homeworld": "2",
       "Films": [
         "5",
         "6"
@@ -2030,7 +2030,7 @@
       "eye_color": "brown",
       "birth_year": "66BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/53/",
+      "Homeworld": "53",
       "Films": [
         "5"
       ],
@@ -2051,7 +2051,7 @@
       "eye_color": "blue",
       "birth_year": "47BBY",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/1/",
+      "Homeworld": "1",
       "Films": [
         "5",
         "6",
@@ -2074,7 +2074,7 @@
       "eye_color": "yellow",
       "birth_year": "unknown",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/54/",
+      "Homeworld": "54",
       "Films": [
         "5"
       ],
@@ -2097,7 +2097,7 @@
       "eye_color": "yellow",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/55/",
+      "Homeworld": "55",
       "Films": [
         "5"
       ],
@@ -2118,7 +2118,7 @@
       "eye_color": "black",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/10/",
+      "Homeworld": "10",
       "Films": [
         "5"
       ],
@@ -2139,7 +2139,7 @@
       "eye_color": "black",
       "birth_year": "unknown",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/10/",
+      "Homeworld": "10",
       "Films": [
         "5"
       ],
@@ -2160,7 +2160,7 @@
       "eye_color": "blue",
       "birth_year": "unknown",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/9/",
+      "Homeworld": "9",
       "Films": [
         "5"
       ],
@@ -2181,7 +2181,7 @@
       "eye_color": "red, blue",
       "birth_year": "unknown",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/28/",
+      "Homeworld": "28",
       "Films": [
         "5",
         "6"
@@ -2201,7 +2201,7 @@
       "eye_color": "unknown",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/56/",
+      "Homeworld": "56",
       "Films": [
         "5"
       ],
@@ -2222,7 +2222,7 @@
       "eye_color": "gold",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/57/",
+      "Homeworld": "57",
       "Films": [
         "5"
       ],
@@ -2243,7 +2243,7 @@
       "eye_color": "black",
       "birth_year": "unknown",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/58/",
+      "Homeworld": "58",
       "Films": [
         "5",
         "6"
@@ -2265,7 +2265,7 @@
       "eye_color": "green, yellow",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/59/",
+      "Homeworld": "59",
       "Films": [
         "6"
       ],
@@ -2290,7 +2290,7 @@
       "eye_color": "red",
       "birth_year": "unknown",
       "Gender": "n/a",
-      "Homeworld": "https://swapi.co/api/planets/1/",
+      "Homeworld": "1",
       "Films": [
         "1"
       ],
@@ -2311,7 +2311,7 @@
       "eye_color": "blue",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/14/",
+      "Homeworld": "14",
       "Films": [
         "6"
       ],
@@ -2332,7 +2332,7 @@
       "eye_color": "brown",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/2/",
+      "Homeworld": "2",
       "Films": [
         "6",
         "1"
@@ -2354,7 +2354,7 @@
       "eye_color": "white",
       "birth_year": "unknown",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/60/",
+      "Homeworld": "60",
       "Films": [
         "5",
         "6"
@@ -2374,7 +2374,7 @@
       "eye_color": "black",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/12/",
+      "Homeworld": "12",
       "Films": [
         "6"
       ],
@@ -2395,7 +2395,7 @@
       "eye_color": "dark",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/28/",
+      "Homeworld": "28",
       "Films": [
         "7"
       ],
@@ -2416,7 +2416,7 @@
       "eye_color": "hazel",
       "birth_year": "unknown",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/28/",
+      "Homeworld": "28",
       "Films": [
         "7"
       ],
@@ -2437,7 +2437,7 @@
       "eye_color": "brown",
       "birth_year": "unknown",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/28/",
+      "Homeworld": "28",
       "Films": [
         "7"
       ],
@@ -2460,7 +2460,7 @@
       "eye_color": "black",
       "birth_year": "unknown",
       "Gender": "none",
-      "Homeworld": "https://swapi.co/api/planets/28/",
+      "Homeworld": "28",
       "Films": [
         "7"
       ],
@@ -2481,7 +2481,7 @@
       "eye_color": "unknown",
       "birth_year": "unknown",
       "Gender": "female",
-      "Homeworld": "https://swapi.co/api/planets/28/",
+      "Homeworld": "28",
       "Films": [
         "7"
       ],
@@ -2500,7 +2500,7 @@
       "eye_color": "brown",
       "birth_year": "24BBY",
       "Gender": "male",
-      "Homeworld": "https://swapi.co/api/planets/1/",
+      "Homeworld": "1",
       "Films": [
         "1"
       ],
@@ -3696,7 +3696,7 @@
       "hair_colors": "blonde, brown, black, red",
       "skin_colors": "caucasian, black, asian, hispanic",
       "Language": "Galactic Basic",
-      "Homeworld": "https://swapi.co/api/planets/9/",
+      "Homeworld": "9",
       "People": [
         "1",
         "4",
@@ -3757,7 +3757,7 @@
       "hair_colors": "none",
       "skin_colors": "pale",
       "Language": "Sullutese",
-      "Homeworld": "https://swapi.co/api/planets/33/",
+      "Homeworld": "33",
       "People": [
         "31"
       ],
@@ -3778,7 +3778,7 @@
       "hair_colors": "none",
       "skin_colors": "grey, green",
       "Language": "Neimoidia",
-      "Homeworld": "https://swapi.co/api/planets/18/",
+      "Homeworld": "18",
       "People": [
         "33"
       ],
@@ -3799,7 +3799,7 @@
       "hair_colors": "none",
       "skin_colors": "brown, green",
       "Language": "Gungan basic",
-      "Homeworld": "https://swapi.co/api/planets/8/",
+      "Homeworld": "8",
       "People": [
         "36",
         "37",
@@ -3823,7 +3823,7 @@
       "hair_colors": "none",
       "skin_colors": "blue, green, grey",
       "Language": "Toydarian",
-      "Homeworld": "https://swapi.co/api/planets/34/",
+      "Homeworld": "34",
       "People": [
         "40"
       ],
@@ -3845,7 +3845,7 @@
       "hair_colors": "none",
       "skin_colors": "brown, purple, grey, red",
       "Language": "Dugese",
-      "Homeworld": "https://swapi.co/api/planets/35/",
+      "Homeworld": "35",
       "People": [
         "41"
       ],
@@ -3866,7 +3866,7 @@
       "hair_colors": "none",
       "skin_colors": "orange, yellow, blue, green, pink, purple, tan",
       "Language": "Twi'leki",
-      "Homeworld": "https://swapi.co/api/planets/37/",
+      "Homeworld": "37",
       "People": [
         "45",
         "46"
@@ -3891,7 +3891,7 @@
       "hair_colors": "none",
       "skin_colors": "blue, gray",
       "Language": "Aleena",
-      "Homeworld": "https://swapi.co/api/planets/38/",
+      "Homeworld": "38",
       "People": [
         "47"
       ],
@@ -3912,7 +3912,7 @@
       "hair_colors": "none",
       "skin_colors": "grey",
       "Language": "vulpterish",
-      "Homeworld": "https://swapi.co/api/planets/39/",
+      "Homeworld": "39",
       "People": [
         "48"
       ],
@@ -3933,7 +3933,7 @@
       "hair_colors": "none",
       "skin_colors": "grey, yellow, purple",
       "Language": "Xextese",
-      "Homeworld": "https://swapi.co/api/planets/40/",
+      "Homeworld": "40",
       "People": [
         "49"
       ],
@@ -3954,7 +3954,7 @@
       "hair_colors": "none",
       "skin_colors": "grey, green, yellow",
       "Language": "Tundan",
-      "Homeworld": "https://swapi.co/api/planets/41/",
+      "Homeworld": "41",
       "People": [
         "50"
       ],
@@ -4007,7 +4007,7 @@
       "hair_colors": "red, blond, black, white",
       "skin_colors": "pale pink",
       "Language": "Cerean",
-      "Homeworld": "https://swapi.co/api/planets/43/",
+      "Homeworld": "43",
       "People": [
         "52"
       ],
@@ -4029,7 +4029,7 @@
       "hair_colors": "none",
       "skin_colors": "green, blue, brown, red",
       "Language": "Nautila",
-      "Homeworld": "https://swapi.co/api/planets/44/",
+      "Homeworld": "44",
       "People": [
         "53"
       ],
@@ -4050,7 +4050,7 @@
       "hair_colors": "black",
       "skin_colors": "pale, brown, red, orange, yellow",
       "Language": "Zabraki",
-      "Homeworld": "https://swapi.co/api/planets/45/",
+      "Homeworld": "45",
       "People": [
         "44",
         "54"
@@ -4072,7 +4072,7 @@
       "hair_colors": "unknown",
       "skin_colors": "dark",
       "Language": "unknown",
-      "Homeworld": "https://swapi.co/api/planets/46/",
+      "Homeworld": "46",
       "People": [
         "55"
       ],
@@ -4094,7 +4094,7 @@
       "hair_colors": "none",
       "skin_colors": "pink",
       "Language": "Iktotchese",
-      "Homeworld": "https://swapi.co/api/planets/47/",
+      "Homeworld": "47",
       "People": [
         "56"
       ],
@@ -4116,7 +4116,7 @@
       "hair_colors": "none",
       "skin_colors": "white",
       "Language": "Quermian",
-      "Homeworld": "https://swapi.co/api/planets/48/",
+      "Homeworld": "48",
       "People": [
         "57"
       ],
@@ -4138,7 +4138,7 @@
       "hair_colors": "none",
       "skin_colors": "peach, orange, red",
       "Language": "Kel Dor",
-      "Homeworld": "https://swapi.co/api/planets/49/",
+      "Homeworld": "49",
       "People": [
         "58"
       ],
@@ -4160,7 +4160,7 @@
       "hair_colors": "none",
       "skin_colors": "blue",
       "Language": "Chagria",
-      "Homeworld": "https://swapi.co/api/planets/50/",
+      "Homeworld": "50",
       "People": [
         "59"
       ],
@@ -4182,7 +4182,7 @@
       "hair_colors": "none",
       "skin_colors": "green, brown",
       "Language": "Geonosian",
-      "Homeworld": "https://swapi.co/api/planets/11/",
+      "Homeworld": "11",
       "People": [
         "63"
       ],
@@ -4204,7 +4204,7 @@
       "hair_colors": "black, brown",
       "skin_colors": "yellow, green",
       "Language": "Mirialan",
-      "Homeworld": "https://swapi.co/api/planets/51/",
+      "Homeworld": "51",
       "People": [
         "64",
         "65"
@@ -4227,7 +4227,7 @@
       "hair_colors": "black, brown",
       "skin_colors": "gray",
       "Language": "Shyriiwook",
-      "Homeworld": "https://swapi.co/api/planets/14/",
+      "Homeworld": "14",
       "People": [
         "13",
         "80"
@@ -4253,7 +4253,7 @@
       "hair_colors": "none",
       "skin_colors": "green, yellow",
       "Language": "Clawdite",
-      "Homeworld": "https://swapi.co/api/planets/54/",
+      "Homeworld": "54",
       "People": [
         "70"
       ],
@@ -4275,7 +4275,7 @@
       "hair_colors": "none",
       "skin_colors": "brown",
       "Language": "besalisk",
-      "Homeworld": "https://swapi.co/api/planets/55/",
+      "Homeworld": "55",
       "People": [
         "71"
       ],
@@ -4296,7 +4296,7 @@
       "hair_colors": "none",
       "skin_colors": "grey, blue",
       "Language": "Kaminoan",
-      "Homeworld": "https://swapi.co/api/planets/10/",
+      "Homeworld": "10",
       "People": [
         "72",
         "73"
@@ -4318,7 +4318,7 @@
       "hair_colors": "none",
       "skin_colors": "grey, green",
       "Language": "Skakoan",
-      "Homeworld": "https://swapi.co/api/planets/56/",
+      "Homeworld": "56",
       "People": [
         "76"
       ],
@@ -4340,7 +4340,7 @@
       "hair_colors": "none",
       "skin_colors": "grey, white",
       "Language": "Muun",
-      "Homeworld": "https://swapi.co/api/planets/57/",
+      "Homeworld": "57",
       "People": [
         "77"
       ],
@@ -4362,7 +4362,7 @@
       "hair_colors": "none",
       "skin_colors": "red, white, orange, yellow, green, blue",
       "Language": "Togruti",
-      "Homeworld": "https://swapi.co/api/planets/58/",
+      "Homeworld": "58",
       "People": [
         "78"
       ],
@@ -4384,7 +4384,7 @@
       "hair_colors": "none",
       "skin_colors": "brown, orange, tan",
       "Language": "Kaleesh",
-      "Homeworld": "https://swapi.co/api/planets/59/",
+      "Homeworld": "59",
       "People": [
         "79"
       ],
@@ -4405,7 +4405,7 @@
       "hair_colors": "none",
       "skin_colors": "grey",
       "Language": "Utapese",
-      "Homeworld": "https://swapi.co/api/planets/12/",
+      "Homeworld": "12",
       "People": [
         "83"
       ],
@@ -4426,7 +4426,7 @@
       "hair_colors": "n/a",
       "skin_colors": "green, blue",
       "Language": "Galactic Basic",
-      "Homeworld": "https://swapi.co/api/planets/23/",
+      "Homeworld": "23",
       "People": [
         "15"
       ],
@@ -4447,7 +4447,7 @@
       "hair_colors": "n/a",
       "skin_colors": "green, brown, tan",
       "Language": "Huttese",
-      "Homeworld": "https://swapi.co/api/planets/24/",
+      "Homeworld": "24",
       "People": [
         "16"
       ],
@@ -4469,7 +4469,7 @@
       "hair_colors": "brown, white",
       "skin_colors": "green, yellow",
       "Language": "Galactic basic",
-      "Homeworld": "https://swapi.co/api/planets/28/",
+      "Homeworld": "28",
       "People": [
         "20"
       ],
@@ -4494,7 +4494,7 @@
       "hair_colors": "none",
       "skin_colors": "brown, green",
       "Language": "Dosh",
-      "Homeworld": "https://swapi.co/api/planets/29/",
+      "Homeworld": "29",
       "People": [
         "24"
       ],
@@ -4515,7 +4515,7 @@
       "hair_colors": "none",
       "skin_colors": "red, blue, brown, magenta",
       "Language": "Mon Calamarian",
-      "Homeworld": "https://swapi.co/api/planets/31/",
+      "Homeworld": "31",
       "People": [
         "27"
       ],
@@ -4536,7 +4536,7 @@
       "hair_colors": "white, brown, black",
       "skin_colors": "brown",
       "Language": "Ewokese",
-      "Homeworld": "https://swapi.co/api/planets/7/",
+      "Homeworld": "7",
       "People": [
         "30"
       ],

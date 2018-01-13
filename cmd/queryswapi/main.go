@@ -27,7 +27,7 @@ func main() {
 	}
 
 	p := search.NewCorpus(u)
-	index := search.NewIndex(true, 4)
+	index := search.NewIndex(true, 14)
 	err = index.Train(p.Corpus)
 	if err != nil {
 		fmt.Println(err)

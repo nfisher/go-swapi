@@ -154,7 +154,7 @@ type Person struct {
 	EyeColor  string `json:"eye_color"`
 	BirthYear string `json:"birth_year"`
 	Gender    string
-	Homeworld string
+	Homeworld Url
 	Films     Ids
 	Species   Ids
 	Vehicles  Ids
@@ -201,7 +201,7 @@ type Film struct {
 }
 
 func (f Film) String() string {
-	return fmt.Sprintf("%#v", f)
+	return fmt.Sprintf("%v %v %v %v %v", f.Title, f.EpisodeID, f.Director, f.Producer, f.ReleaseDate)
 }
 
 type Specie struct {
@@ -214,7 +214,7 @@ type Specie struct {
 	HairColors      string `json:"hair_colors"`
 	SkinColors      string `json:"skin_colors"`
 	Language        string
-	Homeworld       string
+	Homeworld       Url
 	People          Ids
 	Films           Ids
 	RestFields
