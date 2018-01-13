@@ -12,11 +12,13 @@ import (
 
 type RuntimeConfig struct {
 	JsonPath string
+	Ksize    int
 }
 
 func main() {
 	var config RuntimeConfig
 
+	flag.IntVar(&config.Ksize, "ksize", 100, "ksize for truncation.")
 	flag.StringVar(&config.JsonPath, "filename", "swapi.json", "Star Wars JSON API file path.")
 	flag.Parse()
 
@@ -27,7 +29,7 @@ func main() {
 	}
 
 	p := search.NewCorpus(u)
-	index := search.NewIndex(true, 14)
+	index := search.NewIndex(true, 100)
 	err = index.Train(p.Corpus)
 	if err != nil {
 		fmt.Println(err)

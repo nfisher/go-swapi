@@ -1,6 +1,8 @@
 package search
 
 import (
+	"strings"
+
 	"github.com/james-bowman/nlp"
 	"github.com/james-bowman/nlp/measures/pairwise"
 	"gonum.org/v1/gonum/mat"
@@ -39,7 +41,7 @@ func (i *Index) Train(testCorpus []string) error {
 }
 
 func (index *Index) Query(query string) (int, error) {
-	queryVector, err := index.pipeline.Transform(query)
+	queryVector, err := index.pipeline.Transform(strings.ToLower(query))
 	if err != nil {
 		return -1, err
 	}

@@ -3,6 +3,7 @@ package search
 import (
 	"errors"
 	"sort"
+	"strings"
 
 	"github.com/nfisher/swapi"
 )
@@ -87,7 +88,7 @@ func NewCorpus(u *swapi.JsonUniverse) *CorpusPair {
 	for _, k := range keys {
 		c := u.Films[k]
 		pair.Keys = append(pair.Keys, EntityKey{EntityType: kind, EntityId: c.Id})
-		pair.Corpus = append(pair.Corpus, c.String())
+		pair.Corpus = append(pair.Corpus, strings.ToLower(c.String()))
 	}
 
 	keys = make([]string, 0, len(u.People))
@@ -100,7 +101,7 @@ func NewCorpus(u *swapi.JsonUniverse) *CorpusPair {
 	for _, k := range keys {
 		c := u.People[k]
 		pair.Keys = append(pair.Keys, EntityKey{EntityType: kind, EntityId: c.Id})
-		pair.Corpus = append(pair.Corpus, c.String())
+		pair.Corpus = append(pair.Corpus, strings.ToLower(c.String()))
 	}
 
 	keys = make([]string, 0, len(u.Planets))
@@ -113,7 +114,7 @@ func NewCorpus(u *swapi.JsonUniverse) *CorpusPair {
 	for _, k := range keys {
 		c := u.Planets[k]
 		pair.Keys = append(pair.Keys, EntityKey{EntityType: kind, EntityId: c.Id})
-		pair.Corpus = append(pair.Corpus, c.String())
+		pair.Corpus = append(pair.Corpus, strings.ToLower(c.String()))
 	}
 
 	keys = make([]string, 0, len(u.Species))
@@ -126,7 +127,7 @@ func NewCorpus(u *swapi.JsonUniverse) *CorpusPair {
 	for _, k := range keys {
 		c := u.Species[k]
 		pair.Keys = append(pair.Keys, EntityKey{EntityType: kind, EntityId: c.Id})
-		pair.Corpus = append(pair.Corpus, c.String())
+		pair.Corpus = append(pair.Corpus, strings.ToLower(c.String()))
 	}
 
 	keys = make([]string, 0, len(u.Starships))
@@ -139,7 +140,7 @@ func NewCorpus(u *swapi.JsonUniverse) *CorpusPair {
 	for _, k := range keys {
 		c := u.Starships[k]
 		pair.Keys = append(pair.Keys, EntityKey{EntityType: kind, EntityId: c.Id})
-		pair.Corpus = append(pair.Corpus, c.String())
+		pair.Corpus = append(pair.Corpus, strings.ToLower(c.String()))
 	}
 
 	keys = make([]string, 0, len(u.Vehicles))
@@ -152,7 +153,7 @@ func NewCorpus(u *swapi.JsonUniverse) *CorpusPair {
 	for _, k := range keys {
 		c := u.Vehicles[k]
 		pair.Keys = append(pair.Keys, EntityKey{EntityType: kind, EntityId: c.Id})
-		pair.Corpus = append(pair.Corpus, c.String())
+		pair.Corpus = append(pair.Corpus, strings.ToLower(c.String()))
 	}
 
 	return &pair
