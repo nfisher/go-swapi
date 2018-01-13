@@ -29,7 +29,7 @@ func main() {
 	}
 
 	p := search.NewCorpus(u)
-	index := search.NewIndex(true, 100)
+	index := search.NewIndex(true, config.Ksize)
 	err = index.Train(p.Corpus)
 	if err != nil {
 		fmt.Println(err)
